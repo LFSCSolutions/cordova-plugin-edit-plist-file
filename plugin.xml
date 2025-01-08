@@ -41,6 +41,9 @@
                 <string>soundcloud</string>
                 <string>fb-messenger</string>
                 <string>instagram</string>
+                <string>webexteams</string>
+                <string>webexteams://</string>
+                <string>com.cisco.sparks</string>
             </array>
         </config-file>
         
